@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InClass06</string>
+    <string name="api_key">160e35d9207e4785b11f47bd9165f0d1</string>
+    <string name="search_keyword">Show Categories</string>
+    <string name="select_button">Select</string>
+    <string name="ImageDescription">Image</string>
+    <string name="previousKey">Previous</string>
+    <string name="nextKey">Next</string>
+</resources>

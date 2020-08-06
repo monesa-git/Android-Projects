@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InClass05</string>
+    <string name="progressTitle">Loading...</string>
+    <string name="SearchKeyword">Search Keyword</string>
+    <string name="goButton">Go</string>
+    <string name="image">Image</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+</resources>

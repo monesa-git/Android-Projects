@@ -1,4 +1,7 @@
 # Android-Projects (Mobile application development course in my masters)
+
+This respository has some of my projects that I have worked in my mobile application development course.
+
 Mobile platforms are at the center of attention of users and organizations nowadays. Most organizations and businesses are rapidly migrating toward the cloud and need to provide a fast and easy mechanism for users to stay connected to their services. Mobile applications are the top trend nowadays given the high variety of new mobile devices and platforms such as Google’s Android. 
 
 # Course Description 

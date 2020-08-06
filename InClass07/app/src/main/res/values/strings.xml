@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InClass07</string>
+    <string name="Question">Question</string>
+    <string name="Quit">Quit</string>
+    <string name="Next">Next</string>
+    <string name="CorrectAnswers">Correct Answers</string>
+    <string name="percent">75%</string>
+    <string name="TryAgain">Try Again</string>
+    <string name="TriviaStats">Trivia Stats</string>
+    <string name="blank" />
+</resources>

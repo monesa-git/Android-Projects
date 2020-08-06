@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">InClass08</string>
+    <string name="tokenKey">eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1ODM5NzIyNzcsImV4cCI6MTYxNTUwODI3NywianRpIjoiN0lrVWNXUldSNWFVOVRWQUpqNDJmaSIsInVzZXIiOjE5MX0.0TZfwtmn-2kjSj0L7qn1haHBQiJw7PSTrtFwGh24_EA</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="choose_password">Choose Password</string>
+    <string name="repeat">Repeat Password</string>
+    <string name="sigup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="closeButton">Close</string>
+    <string name="Sendto">Send To :</string>
+    <string name="subject">Subject</string>
+    <string name="Message">Message</string>
+    <string name="Send">Send</string>
+    <string name="Messages">Messages</string>
+    <string name="Username">Name</string>
+    <string name="Subject">Subject</string>
+    <string name="Date">Date</string>
+    <string name="AutoFillHint" />
+    <string name="Image">Image</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="Title">Title</string>
+    <string name="addplace">Add Place</string>
+    <string name="save">Save</string>
+    <string name="date">Set Date</string>
+    <string name="time">Set Time</string>
+    <string name="go">Go</string>
+    <string name="api_key">AIzaSyCxMawxVMDVCRJ_mnP-Qur9Nr6pBs0JBvk</string>
+    <string name="searchKeyword">Search Keyword</string>
+</resources>

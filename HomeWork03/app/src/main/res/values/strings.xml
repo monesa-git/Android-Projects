@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeWork03</string>
+    <string name="API_KEY">7XXSz8goiaadgKEnL0KJSu45lEJGKuAO</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Updated">Updated:</string>
+    <string name="temperature">Temperature :</string>
+    <string name="Condition">Condition</string>
+    <string name="Day">Day</string>
+    <string name="Night">Night</string>
+    <string name="moreDetails">Click here for more details</string>
+    <string name="saveCity">Save City</string>
+    <string name="setCurrent">Set as Current</string>
+    <string name="forecast">Forecast on</string>
+</resources>

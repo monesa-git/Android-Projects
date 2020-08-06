@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514033983641",
+    "firebase_url": "https://inclass15-ee97b.firebaseio.com",
+    "project_id": "inclass15-ee97b",
+    "storage_bucket": "inclass15-ee97b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514033983641:android:0150a68d711d2773569808",
+        "android_client_info": {
+          "package_name": "com.helloworld.inclass15"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514033983641-irdh18q6jj54ve3j7qktm3i7s564dv57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7sVLyCMB5v1G91gmSFZm_gWUGSxMX2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514033983641-irdh18q6jj54ve3j7qktm3i7s564dv57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

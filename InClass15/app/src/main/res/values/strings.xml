@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TODO List</string>
+    <string name="show_all">Show All</string>
+    <string name="completed">Show Completed</string>
+    <string name="pending">Show Pending</string>
+    <string name="hint">Enter Todo Item</string>
+    <string name="button_add">Add</string>
+        <string-array name="spinner_list">
+            <item>Priority</item>
+            <item>High</item>
+            <item>Medium</item>
+            <item>Low</item>
+        </string-array>
+
+</resources>
